@@ -16,3 +16,10 @@ body {
     height: calc(100% - 10px);
   }
 }
+
+@font-face {
+  font-family: CaskaydiaMonoNerdFontMono;
+  font-style: normal;
+  font-weight: normal;
+  src: url('webfont/laJetBrainsMono-Regur.woff2') format('WOFF2');
+}
